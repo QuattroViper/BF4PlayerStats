@@ -25,4 +25,4 @@ The C# projects have a few features included
 I used 2 API endpoints. 
 
 One API Endpoint are from BF4 themself.
-One API Endpoint are from Battlelof.
+One API Endpoint are from Battlelog.
