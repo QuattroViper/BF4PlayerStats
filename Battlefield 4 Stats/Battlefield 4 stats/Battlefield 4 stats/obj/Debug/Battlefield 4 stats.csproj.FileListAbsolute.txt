@@ -1,0 +1,11 @@
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\bin\Debug\Battlefield 4 stats.exe.config
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\bin\Debug\Players.txt
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\bin\Debug\Battlefield 4 stats.exe
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\bin\Debug\Battlefield 4 stats.pdb
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\obj\Debug\Battlefield 4 stats.csprojResolveAssemblyReference.cache
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\obj\Debug\Battlefield_4_stats.Properties.Resources.resources
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\obj\Debug\Battlefield 4 stats.csproj.GenerateResource.Cache
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\obj\Debug\Battlefield 4 stats.exe
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\obj\Debug\Battlefield 4 stats.pdb
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\obj\Debug\Battlefield_4_stats.MainForm.resources
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\Battlefield 4 Stats\Battlefield 4 stats\Battlefield 4 stats\bin\Debug\Servers.txt

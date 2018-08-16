@@ -1,0 +1,17 @@
+C:\Users\QuattroViper\Desktop\Battlefield Teams\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\QuattroViper\Desktop\Battlefield Teams\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\QuattroViper\Desktop\Battlefield Teams\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\QuattroViper\Desktop\Battlefield Teams\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\QuattroViper\Desktop\Battlefield Teams\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\QuattroViper\Desktop\Battlefield Teams\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\QuattroViper\Desktop\Battlefield Teams\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\PlayerID.txt
+C:\Users\QuattroViper\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\PlayerID.txt
+C:\Users\QuattroViper\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\QuattroViper\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\BFStatsTeamManager.exe.config
+C:\Users\QuattroViper\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\BFStatsTeamManager.exe
+C:\Users\QuattroViper\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\BFStatsTeamManager.pdb
+C:\Users\QuattroViper\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\BFStatsTeamManager.exe
+C:\Users\QuattroViper\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\BFStatsTeamManager.pdb
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\bin\Debug\BFStatsTeamManager.exe.config
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\BFStatsTeamManager.exe
+C:\Users\Marno\Dropbox\Marno Programs\BF4 Player stats and Team Genenrator\PlayersInfoGet\ConsoleApplication1\ConsoleApplication1\obj\Debug\BFStatsTeamManager.pdb

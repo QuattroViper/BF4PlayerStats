@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JSONUtils.Next" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAEAAAAIEAAAAAAEAEAAAAAAAABAAAABA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Rank" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAEAAAAAAEAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Player" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAxACQAAQAAAAIAAAAIAAAJIAAEAAYaBAQAAAgAgwA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Reset" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEACAIAAAgAAAIAAAQAAAACAAAAAQAIAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Scores" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAoEAAAAAABAAIAAKAAAAAAAQAAQEEAAAAAAAACA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Mode" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Assault">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAAAAAIAAAAAAAEAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Engineer">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAAAAAIAAAAAAAEAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Support">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAAAAAIAAAAAAAEAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Recon">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAAAAAIAAAAAAAEAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Commander">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAAAAAIAAAAAAAEAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Kits" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIABAAAAAAAAAAQAAAAAAAAAAAAoAAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Extra" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBBAAgkIACAAACgAAADAiAAEBgAAgAAgAQKAgAIjCAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Stats" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCCIABAEAQAswAIgAGBoAgAQQAABSAAhCA0AIAAAKEA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Stat" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAIAQAAAAAIAAAAAAQAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Extra2" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAACAgAAgAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.WeaponCategory" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAEAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Stat2" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAgAIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.Extra3" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.VehicleCategory" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAEAgAAAAAAAAAAAgA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JSONUtils.RootObject" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAgAQAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battlefield_4_stats.FileHandlerBF4Stats" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAQAAAAAAAgAAAAABAAAAAAAAA=</HashCode>
+      <FileName>FileHandlerBF4Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battlefield_4_stats.MainForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wACEBAAITAgAFAAEACAAABCQCAJCAUABkAAAAQBAK0=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battlefield_4_stats.Program" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battlefield_4_stats.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Battlefield_4_stats.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
